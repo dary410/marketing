@@ -45,6 +45,10 @@ a:focus {
     color: rgb(52, 52, 52);
 }
 
+#about {
+  background-color: #1d4b70;
+}
+
 h1,
 h2,
 h3,
